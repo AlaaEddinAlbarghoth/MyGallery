@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">My Gallery</string>
+
+    <string name="no_feed_available">No Feeds Available</string>
+    <string name="add_an_image">Add An Image</string>
+    <string name="search">Search</string>
+    <string name="capture">Capture</string>
+
+    <string name="channel_id" translatable="false">gallery</string>
+    <string name="channel_title" translatable="false">Default Notification</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="add">Add</string>
+    <string name="cancel">Cancel</string>
+    <string name="fill_input_fields_message">Please Fill the Title and the Description</string>
+    <string name="share_with">Share with</string>
+    <string name="feeds">Feeds</string>
+    <string name="trash">Trash</string>
+    <string name="deleted_time">Deleted Time:</string>
+</resources>
